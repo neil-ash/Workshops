@@ -5,7 +5,9 @@ Jupyter Notebooks for workshop presentations on machine learning!
 
 So far:
 - Supervised Learning with K-Nearest Neighbors
+  - Applied to Titanic dataset
+- Unsupervised Learning with K-Means Clustering
 
 In the future:
-- Unsupervised Learning with K-Means Clustering
+- K-Means Clustering applied to image compression
 - Introduction to Neural Networks
